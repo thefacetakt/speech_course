@@ -1,0 +1,1 @@
+speech_example.wav filter=lfs diff=lfs merge=lfs -text
